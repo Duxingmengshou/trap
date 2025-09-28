@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="code/code.vcxproj" Id="b40da6b4-1ac9-43d6-a671-7c50bbd3d9ae" />
+  <Project Path="trap/trap.vcxproj" Id="7897d9e0-7c72-4c5a-bbcd-74c28efe72fb" />
+</Solution>
